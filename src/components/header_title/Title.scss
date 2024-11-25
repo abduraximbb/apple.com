@@ -1,0 +1,13 @@
+.header__title{
+    padding: 10px 0;
+    text-align: center;
+    font-size: 12px;
+    &__a{
+        color: dodgerblue;
+    }
+}
+.IoIosArrowForward{
+    display: flex;
+    justify-content: end;
+    align-items: center;
+}

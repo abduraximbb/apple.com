@@ -1,0 +1,22 @@
+.hero {
+  text-align: center;
+  height: 450px;
+  padding: 50px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  gap: 7px;
+  margin-top: 10px;
+}
+.hero__buttons {
+  display: flex;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+}
+.hero__btn{
+    padding: 7px;
+    border-radius: 20px;
+    position: relative;
+    z-index: 1;
+}
